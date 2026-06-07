@@ -1,3 +1,1 @@
-url is: https://famous-baths-draw.loca.lt\n"
-
-35.199.12.53
+https://exploratory-data-analysis-g3z9eaqvdj9qreqx8ftnqw.streamlit.app/
